@@ -29,11 +29,12 @@ This project implements a deep learning-based approach to detect brain tumors fr
 
 4.Visualize the detection results
 
-You can try out my project on hugging face: https://huggingface.co/spaces/Pulastya0/Brain-Tumor-Detection
-
 ⚙️ Tech Stack
 Python
 
 PyTorch / Ultralytics YOLOv10
 
 OpenCV
+
+
+You can try out my project on hugging face: https://huggingface.co/spaces/Pulastya0/Brain-Tumor-Detection
